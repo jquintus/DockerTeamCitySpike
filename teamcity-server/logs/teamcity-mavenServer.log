@@ -1,0 +1,5 @@
+[2018-04-08 11:02:07,229]   INFO - r.maven.remote.MavenServerImpl - Starting maven server with following arguments: [teamcity-mavenServer] 
+[2018-04-08 11:02:10,309]   INFO - r.maven.remote.MavenServerImpl - Successfully created registry using port [50185] 
+[2018-04-08 11:02:10,321]   INFO - r.maven.remote.MavenServerImpl - Successfully bound Maven Server to name: [teamcity-mavenServer] 
+[2018-04-08 11:02:10,374]   INFO - r.maven.remote.MavenServerImpl - using name of running JVM: [1908@c6292e787196] 
+[2018-04-08 11:02:10,375]   INFO - r.maven.remote.MavenServerImpl - Printed following string to output: [1908/50185] 

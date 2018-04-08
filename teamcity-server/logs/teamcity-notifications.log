@@ -1,0 +1,2 @@
+[2018-04-08 11:02:00,866]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\jabber\jabber-config.xml 
+[2018-04-08 11:02:45,833]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\email\email-config.xml 

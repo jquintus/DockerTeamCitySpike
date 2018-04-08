@@ -1,0 +1,1 @@
+[2018-04-08 11:02:09,900]   INFO [ssing plugins 3] - n.AmazonInstanceMetadataReader - Amazon is not available. Amazon EC2 integration is not active: Failed to connect to http://169.254.169.254/2016-04-19. The host did not accept the connection within timeout of 7000 ms 
