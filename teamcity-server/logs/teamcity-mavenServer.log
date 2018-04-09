@@ -3,3 +3,12 @@
 [2018-04-08 11:02:10,321]   INFO - r.maven.remote.MavenServerImpl - Successfully bound Maven Server to name: [teamcity-mavenServer] 
 [2018-04-08 11:02:10,374]   INFO - r.maven.remote.MavenServerImpl - using name of running JVM: [1908@c6292e787196] 
 [2018-04-08 11:02:10,375]   INFO - r.maven.remote.MavenServerImpl - Printed following string to output: [1908/50185] 
+[2018-04-08 15:29:14,728]   INFO - r.maven.remote.MavenServerImpl - Suicide Watcher: shutting down server due to activity on system.in stream 
+[2018-04-08 15:29:14,743]   WARN - r.maven.remote.MavenServerImpl - Forced shutdown due to: [Suicide Watcher: shutting down server due to activity on system.in stream] 
+[2018-04-08 15:29:14,790]   INFO - r.maven.remote.MavenServerImpl - Shutdown sequence complete 
+[2018-04-08 15:29:14,806]   INFO - r.maven.remote.MavenServerImpl - The JVM is shutting down. 
+[2018-04-08 15:39:55,192]   INFO - r.maven.remote.MavenServerImpl - Starting maven server with following arguments: [teamcity-mavenServer] 
+[2018-04-08 15:39:56,719]   INFO - r.maven.remote.MavenServerImpl - Successfully created registry using port [55339] 
+[2018-04-08 15:39:56,720]   INFO - r.maven.remote.MavenServerImpl - Successfully bound Maven Server to name: [teamcity-mavenServer] 
+[2018-04-08 15:39:56,738]   INFO - r.maven.remote.MavenServerImpl - using name of running JVM: [912@57992b8f0f31] 
+[2018-04-08 15:39:56,739]   INFO - r.maven.remote.MavenServerImpl - Printed following string to output: [912/55339] 

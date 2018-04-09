@@ -11,3 +11,5 @@
 [2018-04-08 15:24:01,657]   INFO - s.buildServer.ACTIVITIES.AUDIT - build_add_to_queue: Build BUILD_PROMOTION{id=1} was added to queue by "'username' (josh) {id=1}" 
 [2018-04-08 15:24:01,720]   INFO - tbrains.buildServer.ACTIVITIES - Build added to queue; Queued build {Build promotion {promotion id=1, configuration={id=Spikes_Build, internal id=bt1}, queued}, triggered by "josh"} 
 [2018-04-08 15:24:21,418]   INFO - s.buildServer.ACTIVITIES.AUDIT - agent_authorize: Agent ""ip_172.25.106.248" {id=1}" was authorized by "'username' (josh) {id=1}" 
+[2018-04-08 15:43:18,105]   INFO - tbrains.buildServer.ACTIVITIES - Server Started 
+[2018-04-08 16:29:53,741]   INFO - s.buildServer.ACTIVITIES.AUDIT - agent_authorize: Agent ""ip_172.17.231.177" {id=2}" was authorized by "'username' (josh) {id=1}" 
