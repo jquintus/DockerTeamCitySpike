@@ -4,3 +4,11 @@
 [2018-04-08 15:40:38,165]   INFO -  jetbrains.buildServer.CLEANUP - Max cleanup duration is set to 0 seconds 
 [2018-04-08 15:40:38,170]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup time has been set to 03:00:00 daily 
 [2018-04-08 15:40:38,171]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup is enabled 
+[2018-04-08 21:34:28,279]   INFO -  jetbrains.buildServer.CLEANUP - Max cleanup duration is set to 0 seconds 
+[2018-04-08 21:34:28,292]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup time has been set to 03:00:00 daily 
+[2018-04-08 21:34:28,293]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup is enabled 
+[2018-04-08 21:51:15,135]   INFO -  jetbrains.buildServer.CLEANUP - Max cleanup duration is set to 0 seconds 
+[2018-04-08 21:51:15,185]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup time has been set to 03:00:00 daily 
+[2018-04-08 21:51:15,190]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup is enabled 
+[2018-04-08 22:16:59,333]   INFO -  jetbrains.buildServer.CLEANUP - Removing agent Unregistered agent "ip_172.25.106.248" {id=1} 
+[2018-04-08 22:17:04,528]   INFO -  jetbrains.buildServer.CLEANUP - Removing agent Unregistered agent "ip_172.17.231.177" {id=2} 

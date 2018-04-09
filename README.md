@@ -7,6 +7,12 @@ Prep:
 ```batch
 mkdir .\teamcity-server\logs
 mkdir .\teamcity-server\data
+
+mkdir .\teamcity-agent01\conf
+mkdir .\teamcity-agent01\work
+
+mkdir .\teamcity-agent02\conf
+mkdir .\teamcity-agent02\work
 ```
 
 * [Source](https://github.com/JetBrains/teamcity-docker-samples)

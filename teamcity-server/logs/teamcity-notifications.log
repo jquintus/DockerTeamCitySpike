@@ -2,3 +2,9 @@
 [2018-04-08 11:02:45,833]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\email\email-config.xml 
 [2018-04-08 15:40:10,720]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\email\email-config.xml 
 [2018-04-08 15:40:21,542]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\jabber\jabber-config.xml 
+[2018-04-08 21:16:53,002]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\jabber\jabber-config.xml 
+[2018-04-08 21:17:28,690]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\email\email-config.xml 
+[2018-04-08 21:33:55,661]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\jabber\jabber-config.xml 
+[2018-04-08 21:34:04,411]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\email\email-config.xml 
+[2018-04-08 21:50:32,270]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\jabber\jabber-config.xml 
+[2018-04-08 21:50:55,091]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: C:\ProgramData\jetbrains\teamcity\config\_notifications\email\email-config.xml 

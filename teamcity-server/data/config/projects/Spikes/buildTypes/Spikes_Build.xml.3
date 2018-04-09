@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="8a3a4b48-711c-4d89-99de-e627ce05d575" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
-  <name>Build</name>
+  <name>Fun With Spikes</name>
   <description />
   <settings>
+    <options>
+      <option name="allowExternalStatus" value="true" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="RUNNER_1" name="Fun With Spikes" type="VS.Solution">
@@ -31,6 +34,11 @@
         </parameters>
       </build-trigger>
     </build-triggers>
+    <build-extensions>
+      <extension id="perfmon" type="perfmon">
+        <parameters />
+      </extension>
+    </build-extensions>
     <cleanup />
   </settings>
 </build-type>
